@@ -1,0 +1,12 @@
+[submodule "extensions/sd_dreambooth_extension"]
+	path = extensions/sd_dreambooth_extension
+	url = https://github.com/d8ahazard/sd_dreambooth_extension.git
+[submodule "extensions/deforum-for-automatic1111-webui"]
+	path = extensions/deforum-for-automatic1111-webui
+	url = https://github.com/deforum-art/deforum-for-automatic1111-webui
+[submodule "extensions/stable-diffusion-webui-images-browser"]
+	path = extensions/stable-diffusion-webui-images-browser
+	url = https://github.com/yfszzx/stable-diffusion-webui-images-browser
+[submodule "extensions/DreamArtist-sd-webui-extension"]
+	path = extensions/DreamArtist-sd-webui-extension
+	url = https://github.com/7eu7d7/DreamArtist-sd-webui-extension.git
